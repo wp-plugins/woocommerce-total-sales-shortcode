@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: WooCommerce Total Sales Shortcode
+Contributors: captaintheme
 Donate link: http://captaintheme.com
 Tags: woocommerce, total sales, sales, sales shortcode, total sales shortcode, percent of sales, show total sales, show sales
 Requires at least: 3.8.0
