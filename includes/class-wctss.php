@@ -1,8 +1,8 @@
 <?php
 /**
- * WooCommerce Breadcrumb Permalinks Class
+ * WooCommerce Total Sales Shortcode Class
  *
- * @package   WooCommerce Breadcrumb Permalinks
+ * @package   WooCommerce Total Sales Shortcode
  * @author    Captain Theme <info@captaintheme.com>
  * @license   GPL-2.0+
  * @link      http://captaintheme.com
@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * WCBP Class
  *
- * @package  WooCommerce Breadcrumb Permalinks
+ * @package  WooCommerce Total Sales Shortcode
  * @author   Captain Theme <info@captaintheme.com>
  * @since    1.0.0
  */
@@ -39,7 +39,7 @@ class WCTSS {
 	/**
 	 * Start the Class when called
 	 *
-	 * @package WooCommerce Breadcrumb Permalinks
+	 * @package  WooCommerce Total Sales Shortcode
 	 * @author  Captain Theme <info@captaintheme.com>
 	 * @since   1.0.0
 	 */
