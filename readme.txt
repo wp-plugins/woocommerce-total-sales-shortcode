@@ -34,15 +34,11 @@ The shortcode has three optional attributes:
 
 **So for example:**
 
-```
-[wctss_total_sales percent="50" before="€" after=" Donated to My Comic Book Collection!"]
-```
+`[wctss_total_sales percent="50" before="€" after=" Donated to My Comic Book Collection!”]`
 
 **Would display:**
 
-```
-€5,250.42 Donated to My Comic Book Collection!
-```
+`€5,250.42 Donated to My Comic Book Collection!`
 
 Awesome! Right? I hope so...
 
